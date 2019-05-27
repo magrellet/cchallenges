@@ -1,4 +1,4 @@
-/*Consider a staircase of size: n=4
+package hrank;/*Consider a staircase of size: n=4
 
         #
         ##
