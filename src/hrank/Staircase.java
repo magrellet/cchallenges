@@ -1,4 +1,6 @@
-package hrank;/*Consider a staircase of size: n=4
+package hrank;
+
+/*Consider a staircase of size: n=4
 
         #
         ##
@@ -53,21 +55,21 @@ public class Staircase {
 
     static void staircase(int n) {
         String space = "";
-        String symbol ="#";
+        String symbol = "#";
 
-        for(int i =n;i>=1;i--){
+        for (int i = n; i >= 1; i--) {
 
-            while(true){
-                if(space.length()<i){
-                    space+=" ";
-                }else if(space.length()==i){
-                    int j=i;
-                    while(j<=n){
-                        space+=symbol;
+            while (true) {
+                if (space.length() < i) {
+                    space += " ";
+                } else if (space.length() == i) {
+                    int j = i;
+                    while (j <= n) {
+                        space += symbol;
                         j++;
                     }
                     System.out.println(space.substring(1));
-                    space="";
+                    space = "";
                     break;
                 }
             }
