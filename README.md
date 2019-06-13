@@ -1,1 +1,1 @@
-# hrank-practices
+# CC practice
