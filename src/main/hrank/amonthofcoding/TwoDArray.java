@@ -1,4 +1,4 @@
-package hrank ;
+package hrank.amonthofcoding;
 /**
  *
  * Objective

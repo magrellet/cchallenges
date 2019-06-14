@@ -1,4 +1,4 @@
-package hrank;
+package hrank.amonthofcoding;
 
 /*Consider a staircase of size: n=4
 
