@@ -4,12 +4,6 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-O
-src/main/hrank/DateAndTime.java,0\2\02d77189aebb5cd62842e5cdedc2d635fafa1ba2
-M
-src/main/hrank/TwoDArray.java,7\e\7ebba35e21ab78440448a9b3cd1883afcdce4345
-M
-src/main/hrank/Staircase.java,5\d\5dd89c5269d5845887a993a6d59025d598b8f6bb
 N
 src/main/ctci/c1/IsUnique.java,7\f\7f37141c8abf7e63c11b9281ac45e169344e6753
 W
