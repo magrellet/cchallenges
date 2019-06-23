@@ -1,4 +1,4 @@
-package main.leetc;
+package leetc;
 
 import org.junit.Test;
 

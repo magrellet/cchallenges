@@ -1,13 +1,11 @@
 package hrank.amonthofcoding;
 
 import java.text.DateFormat;
-import java.text.DateFormatSymbols;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.Locale;
 
 /**
  * Gets the day's name using  the month, day and year as parameter
