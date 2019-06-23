@@ -1,4 +1,4 @@
-package com.company;
+package hrank.amonthofcoding;
 
 class Node {
     int data;

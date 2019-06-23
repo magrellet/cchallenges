@@ -1,4 +1,4 @@
-package hrank;
+package hrank.amonthofcoding;
 
 import java.text.DateFormat;
 import java.text.DateFormatSymbols;
