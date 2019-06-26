@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c50977dc-b6b5-4893-aa65-f184c5cc9704" name="Default Changelist" comment="" />
+    <list default="true" id="c50977dc-b6b5-4893-aa65-f184c5cc9704" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/leetc/Leetc-Descriptions" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/leetc/Leetc-Descriptions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/leetc/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/leetc/TwoSumTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +29,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/main/ctci/c1/IsUniqueTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/ctci/c1/IsUniqueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="200">
               <caret line="13" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,17 +52,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/leetc/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/main/leetc/TwoSum.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/leetc/TwoSumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            <state relative-caret-position="340">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/leetc/Leetc-Descriptions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            <state relative-caret-position="380">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -83,11 +88,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/leetc/ReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/leetc/ReverseIntegerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,10 +150,14 @@
         <option value="$PROJECT_DIR$/src/main/hrank/amonthofcoding/QueuesAndStacks.java" />
         <option value="$PROJECT_DIR$/src/main/hrank/amonthofcoding/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/test/hrank/amonthofcoding/BubbleSortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/leetc/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/leetc/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/test/leetc/ReverseIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/leetc/Leetc-Descriptions" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
@@ -139,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
           <expand>
@@ -158,10 +187,42 @@
               <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="leetc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="leetc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,6 +236,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hrank" />
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -187,36 +254,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BubbleSortTest.testBubbleSort">
-    <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ctci.c1.IsUnique" />
+  <component name="RunManager" selected="JUnit.TwoSumTest">
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetc.ReverseInteger" />
       <module name="cchallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ctci.c1.*" />
+          <option name="PATTERN" value="leetc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueuesAndStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hrank.amonthofcoding.QueuesAndStacks" />
-      <module name="cchallenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hrank.amonthofcoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.hrank.Staircase" />
-      <module name="cchallenge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -237,29 +284,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsUniqueTest.isUniqueInStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cchallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c1.*" />
+          <option name="PATTERN" value="leetc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="c1" />
-      <option name="MAIN_CLASS_NAME" value="c1.IsUniqueTest" />
-      <option name="METHOD_NAME" value="isUniqueInStringTest" />
+      <option name="PACKAGE_NAME" value="leetc" />
+      <option name="MAIN_CLASS_NAME" value="leetc.ReverseIntegerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseIntegerTest.reverseIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cchallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetc" />
+      <option name="MAIN_CLASS_NAME" value="leetc.ReverseIntegerTest" />
+      <option name="METHOD_NAME" value="reverseIntTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cchallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetc" />
+      <option name="MAIN_CLASS_NAME" value="leetc.TwoSumTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TwoSumTest" />
+        <item itemvalue="JUnit.ReverseIntegerTest" />
+        <item itemvalue="JUnit.ReverseIntegerTest.reverseIntTest" />
+        <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="JUnit.BubbleSortTest.testBubbleSort" />
-        <item itemvalue="Application.QueuesAndStacks" />
-        <item itemvalue="JUnit.IsUniqueTest.isUniqueInStringTest" />
-        <item itemvalue="Application.IsUnique" />
-        <item itemvalue="Application.Staircase" />
       </list>
     </recent_temporary>
   </component>
@@ -295,12 +372,21 @@
     <history-entry file="BubbleSortTest_testBubbleSort - 2019.06.18 at 14h 56m 23s.xml">
       <configuration name="BubbleSortTest.testBubbleSort" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReverseIntegerTest_reverseIntTest - 2019.06.26 at 00h 18m 00s.xml">
+      <configuration name="ReverseIntegerTest.reverseIntTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseIntegerTest - 2019.06.26 at 00h 18m 11s.xml">
+      <configuration name="ReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseIntegerTest - 2019.06.26 at 00h 19m 08s.xml">
+      <configuration name="ReverseIntegerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,7 +396,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -368,6 +454,31 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>(a % 10) *10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a / 10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x*10+y</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x*10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a % 10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>qs.dequeueCharacter()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -384,21 +495,6 @@
       </expression>
       <expression>
         <expression-string>stringArray.length-1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>stringArray.length</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>space</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>space.length()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -437,48 +533,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/ctci/c1/ctciQ">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cchallenge.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/hrank/amonthofcoding/QueuesAndStacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/ctci/c1/IsUnique.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/main/ctci/c1/IsUniqueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -499,6 +557,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ctci/c1/IsUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ctci/c1/IsUniqueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ctci/c1/ctciQ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cchallenge.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/leetc/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/leetc/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/leetc/ReverseIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/leetc/Leetc-Descriptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/leetc/TwoSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
